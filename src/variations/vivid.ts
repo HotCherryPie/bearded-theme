@@ -39,6 +39,8 @@ export const vividBlack: Theme = {
   }),
 };
 
+// Old colors:
+//  https://github.com/BeardedBear/bearded-theme/commit/e7df3f9
 export const vividLight: Theme = {
   colors: {
     blue: "#0096ff", // old: "#28A9FF",
